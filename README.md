@@ -1,33 +1,24 @@
-# Targan Dev - Solidity & Smart Contract Developer
+# Portfolio
 
-**Solidity Developer** specializing in building secure and efficient smart contracts for DeFi, NFT, Token and Web3 applications.
+This repository contains my practice projects while learning Smart Contract Development and Security.
 
-## 🛠 Skills & Technologies
+## Current Focus
+- Learning Solidity fundamentals
+- Understanding Smart Contract Security
+- Building in public as an Aspiring Smart Contract Auditor
 
-- **Core**: Solidity, Hardhat, Foundry
-- **Libraries**: OpenZeppelin, Ethers.js, Web3.js
-- **Frontend**: React, Next.js, Wagmi, Viem
-- **Standards**: ERC20, ERC721, ERC1155, Vesting, Staking
-- **Tools**: Git, Docker, The Graph, IPFS
+## Projects
 
-## 📬 Open for Freelance
+### MyERC20.sol
+A simple ERC-20 token contract written for practice.
 
-Currently available for:
-- Smart Contract Development
-- Smart Contract Auditing & Security Review
-- DeFi Protocols & Token Contracts
-- NFT Marketplaces & Collections
-- Web3 dApp Integration
+> Note: These are learning projects, not production-ready contracts.
 
 ---
 
-### Contact & Links
+### About Me
+I'm currently learning Smart Contract Development and Security with the goal of becoming a Smart Contract Auditor.
 
-- **X**: [@TarganCrypto](https://x.com/TarganCrypto)
-- **Telegram**: [@targancrypto](https://t.me/targancrypto)
-- **Email**: targancrypto@gmail.com
-- **GitHub**: [targanDev](https://github.com/targanDev)
-
----
-
-⭐ If you like my work, feel free to star this repository!
+- GitHub: [targanDev](https://github.com/targanDev)
+- X: [@TarganCrypto](https://x.com/TarganCrypto)
+- Telegram: [targancrypto](https://t.me/targancrypto)
