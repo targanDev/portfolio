@@ -1,25 +1,20 @@
-# Web3 Learning Journey
+# Portfolio
 
-This repository is my public learning journal while becoming a Smart Contract Auditor.
+This repository contains my practice projects while learning Smart Contract Development and Security.
 
-I document what I learn, the exercises I do, and the projects I build along the way.
+## Current Focus
+- Learning Solidity fundamentals
+- Understanding Smart Contract Security
+- Building in public as an Aspiring Smart Contract Auditor
 
-## Current Stage
-- Learning Git & GitHub properly
-- Building strong fundamentals before moving to Solidity
+## Projects
 
-## Learning Log
+### MyERC20.sol
+A simple ERC-20 token contract written for practice.
 
-### September 2026
-- Learned basic Terminal commands on Windows
-- Installed and configured Git
-- Set up GitHub profile honestly
-- Updated portfolio repository to reflect real skill level
+> Note: These are learning projects, not production-ready contracts.
 
-### Coming Next
-- Deeper Git practice (branching, merging, .gitignore)
-- JavaScript fundamentals for Web3
-- Solidity basics
+---
 
-## How I Learn
-I believe in building in public and being honest about my current level.
+### About Me
+I'm currently learning Smart Contract Development and Security with the goal of becoming a Smart Contract Auditor.
